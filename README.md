@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Guilherme Mezzavilla!✌️
-
+- 🎓 Cursando Ciência da Computação
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeMezza&color=yellow" alt="Profile views"></p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/guilherme-mezzavilla-3255b0212)
