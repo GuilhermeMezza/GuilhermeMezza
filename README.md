@@ -6,9 +6,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guimezza21@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilherme_mezzavilla?igshid=MzNlNGNkZWQ4Mg==)
 
-![Guilherme Mendonça Mezzavilla](https://github-readme-stats.vercel.app/api?username=GuilhermeMezza&show_icons=true&theme=highcontrast)
+![Guilherme Mendonça Mezzavilla](https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeMezza&show_icons=true&theme=highcontrast)
 
-[![Guilherme Mendonça Mezzavilla](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMezza)](https://github.com/anuraghazra/github-readme-stats)
+[![Guilherme Mendonça Mezzavilla](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuilhermeMezza)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que possuo conhecimento:
 
