@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Guilherme Mezzavilla!✌️
+#### Estou iniciando na área de desenvolvimento
 - 🎓 Cursando Ciência da Computação, 3º Periodo
 - Santander Bootcamp 2023 - Fullstack Java+Angular
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeMezza&color=yellow" alt="Profile views"></p>
@@ -14,7 +15,7 @@
 
 ## Tecnologias que possuo conhecimento:
 
-<div style="display: inline_block; margin-bottom: 5px"><br/>
+<div style="display: inline_block; margin-bottom: 10px"><br/>
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5"/>
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4"/>
