@@ -1,20 +1,20 @@
-### Olá! Eu sou o Guilherme Mezzavilla!✌️
+# Olá! Eu sou o Guilherme Mezzavilla!✌️
 #### 📚 Estou iniciando na área de desenvolvimento
 - 🎓 Cursando Ciência da Computação - 3º Periodo
 - 💻 Santander Bootcamp 2023 - Fullstack Java + Angular
 
+## 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GuilhermeMezza&color=yellow" alt="Profile views"></p>
+
+## Conecte-se Comigo
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-mezzavilla-3255b0212/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](guimezza21@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/guilherme_mezzavilla?igshid=MzNlNGNkZWQ4Mg==)
 [![MEU](https://img.shields.io/badge/MEU_PERFIL_NA_DIO-000?style=for-the-badge&)](https://www.dio.me/users/guimezza21)
 
-![Guilherme Mendonça Mezzavilla](https://github-readme-stats-sigma-five.vercel.app/api?username=GuilhermeMezza&show_icons=true&theme=highcontrast)
-
-[![Guilherme Mendonça Mezzavilla](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuilhermeMezza)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tecnologias que possuo conhecimento:
+## Tecnologias Que Possuo Conhecimento:
 
 <div style="display: inline_block; margin-bottom: 10px"><br/>
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
@@ -27,10 +27,22 @@
     <img align="center" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=green"/>
 </div>
 
-## Tecnologias que estou aprendendo:
+## Tecnologias Que Estou Aprendendo:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue"/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031"/>
 </div>
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMezza&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=dbfc00&text_color=FFF)
+
+## Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeMezza&bg_color=000&border_color=white&title_color=dbfc00&text_color=FFF)
+
+## Minhas Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeMezza&repo=GuilhermeMezza&bg_color=000&border_color=white&show_icons=true&icon_color=30A3DC&title_color=dbfc00&text_color=FFF)](https://github.com/GuilhermeMezza/GuilhermeMezza)
