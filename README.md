@@ -31,8 +31,9 @@
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=blue"/>
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=red"/>
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow"/>
 </div>
 
 ## Estatísticas
