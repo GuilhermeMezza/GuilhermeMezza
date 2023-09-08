@@ -38,11 +38,11 @@
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMezza&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=dbfc00&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMezza&theme=transparent&bg_color=000&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=dbfc00&text_color=FFF&hide_title=true)
 
 ## Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeMezza&bg_color=000&border_color=white&title_color=dbfc00&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GuilhermeMezza&bg_color=000&border_color=white&title_color=dbfc00&text_color=FFF&hide_title=true)
 
 ## Minhas Contribuições
 
