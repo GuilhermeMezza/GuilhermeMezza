@@ -1,7 +1,6 @@
 # Olá! Eu sou o Guilherme Mezzavilla!✌️
 #### 📚 Estou iniciando na área de desenvolvimento
-- 🎓 Cursando Ciência da Computação - 3º Periodo
-- 💻 Santander Bootcamp 2023 - Fullstack Java + Angular
+- 🎓 Cursando Ciência da Computação - 4º Periodo
 
 ## 
 
